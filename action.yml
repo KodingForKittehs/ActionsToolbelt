@@ -1,0 +1,5 @@
+name: ActionsToolbelt
+description: A collection of belt tools.
+runs:
+  using: docker
+  image: Dockerfile
